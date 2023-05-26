@@ -4,11 +4,11 @@ Bem-vindo à Web Store de Scripts para FiveM! Este projeto é uma loja online on
 
 ## ⭐ Funcionalidades
 
-- 🔍 **Pesquisa Avançada**: Os usuários podem pesquisar scripts por categorias, palavras-chave ou classificações.
-- 📝 **Avaliações e Comentários**: Os usuários podem avaliar e deixar comentários sobre os scripts que experimentaram.
-- 💰 **Sistema de Pagamento**: Integração com um sistema de pagamento seguro para a compra de scripts premium.
-- 👤 **Área do Usuário**: Os usuários têm uma área personalizada onde podem gerenciar seus downloads, avaliações e compras.
-- 🛠️ **Painel do Administrador**: Um painel administrativo para gerenciar scripts, categorias, usuários e pedidos.
+- 🔍 **Pesquisa Avançadaem BREVE**: Os usuários poderão pesquisar scripts por categorias, palavras-chave ou classificações.
+- 📝 **Avaliações e Comentários em BREVE**: Os usuários poderão avaliar e deixar comentários sobre os scripts que experimentaram.
+- 💰 **Sistema de Pagamento em BREVE**: Integração com um sistema de pagamento seguro para a compra de scripts premium.
+- 👤 **Área do Usuário em BREVE**: Os usuários terão uma área personalizada onde podem gerenciar seus downloads, avaliações e compras.
+- 🛠️ **Painel do Administrador em BREVE**: Um painel administrativo para gerenciar scripts, categorias, usuários e pedidos.
 
 ## 📋 Requisitos de Instalação
 
