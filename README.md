@@ -30,5 +30,3 @@ Contribuições são bem-vindas! Se você encontrar algum problema, bug ou tiver
 Este projeto é licenciado sob a licença [MIT](https://opensource.org/licenses/MIT). Sinta-se livre para usar, modificar e distribuir o código-fonte deste projeto.
 
 ---
-
-Espero que este `README.md` atenda às suas necessidades para o seu repositório do projeto. Sinta-se à vontade para personalizá-lo conforme necessário e adicionar mais informações relevantes sobre o seu projeto. Boa sorte com o seu site de web store de scripts para FiveM! 👍
